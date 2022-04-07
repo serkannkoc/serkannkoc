@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="center">I'm a Developer and a Student!!</h3>
 
+- 🏫 I'm studying computer science engineering at Marmara University!
+
 - 🔭 I’m currently working on [Java101-patika.dev](https://github.com/serkannkoc/Java101-patika.dev)
 
 - 🌱 I’m currently learning **SpringBoot and Flutter**
