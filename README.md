@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **serkan.koc@marun.edu.tr**
 
-- ⚡ Fun fact **I love to weight lifting and playing online games 🎮**
+- ⚡ Fun fact **I love lifting weights and playing online games 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
