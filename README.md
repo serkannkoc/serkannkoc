@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot and Flutter**
 
-- 👯 I’m looking forward to finish the path for backend development [patika.dev](https://app.patika.dev/serkankoc)
+- 👯 I’m looking forward to finish the path for backend development at [patika.dev](https://app.patika.dev/serkankoc)
 
 - 📫 How to reach me **serkan.koc@marun.edu.tr**
 
