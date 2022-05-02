@@ -9,7 +9,7 @@
 
 - 👯 I’m looking forward to finish the path for backend development at [patika.dev](https://app.patika.dev/serkankoc)
 
-- 📫 How to reach me **serkan.koc@marun.edu.tr**
+- 📫 How to reach me **serkankoc320@gmail.com**
 
 - ⚡ Fun fact **I love lifting weights and playing online games 🎮**
 
