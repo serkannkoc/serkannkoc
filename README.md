@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">I'm a Developer and a Student!!</h3>
+<h3 align="center">I'm a Backend Developer!!</h3>
 
 - 🏫 I'm studying computer science engineering at Marmara University!
 
