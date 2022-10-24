@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👯 I’m looking forward to finish the course for Spring development at [udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
+- 👯 I’m looking forward to finish the course for Spring development at [Spring & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial/)
 
 - 📫 How to reach me **serkankoc320@gmail.com**
 
