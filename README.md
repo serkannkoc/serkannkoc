@@ -3,11 +3,9 @@
 
 - 🏫 I'm studying computer science engineering at Marmara University!
 
-- 🔭 I’m currently working on [Java101-patika.dev](https://github.com/serkannkoc/Java101-patika.dev)
-
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👯 I’m looking forward to finish the path for backend development at [patika.dev](https://app.patika.dev/serkankoc)
+- 👯 I’m looking forward to finish the course for Spring development at [udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
 
 - 📫 How to reach me **serkankoc320@gmail.com**
 
