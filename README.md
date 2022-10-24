@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Java101-patika.dev](https://github.com/serkannkoc/Java101-patika.dev)
 
-- 🌱 I’m currently learning **SpringBoot and Flutter**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking forward to finish the path for backend development at [patika.dev](https://app.patika.dev/serkankoc)
 
 - 📫 How to reach me **serkankoc320@gmail.com**
 
-- ⚡ Fun fact **I love lifting weights and playing online games 🎮**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
