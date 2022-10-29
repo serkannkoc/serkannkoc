@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring environment.**
 
-- I’m looking forward to finish the course for Spring development at [Spring & Hibernate for Beginners.](https://www.udemy.com/course/spring-hibernate-tutorial/)
+- ⚡I’m looking forward to finish the course for Spring development at [Spring & Hibernate for Beginners.](https://www.udemy.com/course/spring-hibernate-tutorial/)
 
 - 💬 Ask me about **java and computer science engineering.**
 
