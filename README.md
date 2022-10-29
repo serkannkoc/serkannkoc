@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkannkoc&label=Profile%20views&color=0e75b6&style=flat" alt="serkannkoc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkannkoc" alt="serkannkoc" /></a> </p>
-
 - 🔭 I’m currently working on [Spring MVC Project.](https://github.com/serkannkoc/spring-mvc-demo)
 
 - 🌱 I’m currently learning **Spring environment.**
