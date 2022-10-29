@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">
+Hi there, I'm Serkan 👋
+</h3>
 
-- 🔭 I’m currently working on [Spring MVC Project.](https://github.com/serkannkoc/spring-mvc-demo)
+<h2 align="center">
+I'm a Backend Developer
+</h2>
 
-- 🌱 I’m learning **Spring environment.**
+
+
+- 🌱 I’m currently learning **Spring environment.**
 
 - ⚡I’m looking forward to finish the course for Spring development at [Spring & Hibernate for Beginners.](https://www.udemy.com/course/spring-hibernate-tutorial/)
 
 - 💬 Ask me about **java and computer science engineering.**
 
-- 📫 How to reach me **serkankoc320@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/koc-serkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koc-serkan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/serkan_koc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="serkan_koc" height="30" width="40" /></a>
-</p>
+## 💼 Languages and Tools
+<blockquote>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</blockquote>
+<blockquote>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</blockquote>
+<blockquote>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.Net core-5C2D91?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Entity Framework Core-0052CC?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/MS SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</blockquote>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkannkoc&" alt="serkannkoc" /></p>
+<h2 dir="auto"><a id="user-content-email-contact" class="anchor" aria-hidden="true" href="#email-contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Contact</h2> 
+
+You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji> <br>
+<blockquote>
+<p dir="auto"><a href="https://www.linkedin.com/in/koc-serkan/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:serkankoc320@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://www.hackerrank.com/serkan_koc" rel="nofollow"><img src="https://img.shields.io/badge/hackerrank-55fa70?style=for-the-badge&logo=&logoColor=white"></p>
+</blockquote>
+
+<br>
+
+
+
+## 📈 GitHub Stats 
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=serkannkoc&amp;theme=onedark"> 
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkannkoc&amp;layout=compact&amp;theme=dark">
+
