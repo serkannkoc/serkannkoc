@@ -1,8 +1,8 @@
-<h2 align="center">
-I'm a Full Stack Developer at Konsalt Bilgi Teknolojileri
-</h2>
+# Full Stack Developer 👨‍💻
+## Konsalt Bilgi Teknolojileri
 
-- 👨‍💻 I'm a Full Stack Developer at Konsalt Bilgi Teknolojileri, where I work on a diverse range of projects involving web development, databases, and backend systems.
+I work on a diverse range of projects involving web development, databases, and backend systems, taking on responsibilities that span the entire development lifecycle. This includes not only coding and design but also deployment and ongoing maintenance to ensure the smooth operation of applications.
+
 
 
 ## 💼 Languages and Tools
