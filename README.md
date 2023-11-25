@@ -19,9 +19,3 @@ I work on a diverse range of projects involving web development, databases, and 
 <p>
 Experienced in <strong>Node.js</strong>, <strong>Vue.js</strong>, <strong>PostgreSQL</strong>, <strong>Sequelize</strong>, and using <strong>MongoDB with Mongoose</strong>, I have a versatile skill set and a quick learning curve. Adapting to new technologies, frameworks, and languages, such as Spring Boot or .NET Core, is something I approach with enthusiasm and dedication.
 </p>
-
-## 📈 GitHub Stats 
-
-<img src="https://github-profile-trophy.vercel.app/?username=serkannkoc&amp;theme=onedark"> 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkannkoc&amp;layout=compact&amp;theme=dark">
