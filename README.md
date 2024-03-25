@@ -4,8 +4,6 @@ Hi 👋 My name is Serkan Koc
 Software Engineer
 -----------------
 
-A Computer Science and Engineering graduate from Marmara University, skilled in both backend and frontend development, with a talent for crafting seamless websites.
-
 ### Skills
 
 
