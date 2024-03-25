@@ -6,12 +6,6 @@ Software Engineer
 
 A Computer Science and Engineering graduate from Marmara University, skilled in both backend and frontend development, with a talent for crafting seamless websites.
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [serkankoc320@gmail.com](mailto:serkankoc320@gmail.com)
-* 🧠  I'm learning Cypress and Gitlab CI/CD
-* 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I am the one who knocks!
-
 ### Skills
 
 
